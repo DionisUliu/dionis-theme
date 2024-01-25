@@ -2,11 +2,4 @@
 
 # <p align="center">Dionis Theme</p>
 
-## 🛠️ Installation
-
-```bash
-Go to Visual Studio Code (Extensions),
-and search for "Dionis Theme"
-```
-
-**Enjoy!👋🏻**
+_Enjoy!👋🏻_
