@@ -4,6 +4,10 @@
   "description": "Dionis Theme Official",
   "version": "0.0.1",
   "publisher": "DionisUliu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DionisUliu/dionis-theme"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
