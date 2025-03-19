@@ -1,8 +1,8 @@
 {
   "name": "dionis-theme",
   "displayName": "Dionis Theme",
-  "description": "This theme is designed for developers who want to stay both ️productive and️ chill during coding sessions. ✨",
-  "version": "0.0.5",
+  "description": "Inspired by the character of the world's finest grapes, this theme collection is crafted for developers who seek productivity with a touch of refinement. Each theme embodies the essence of its namesake, bringing a unique coding experience. 🍷✨",
+  "version": "0.1.0",
   "publisher": "DionisUliu",
   "repository": {
     "type": "git",
@@ -15,25 +15,55 @@
     "Themes"
   ],
   "icon": "images/icon.png",
-  "keywords": [
-    "themes",
-    "theme",
-    "dark",
-    "dark theme",
-    "dionis theme",
-    "theme dionis",
-    "dionysus",
-    "dionysus theme",
-    "dracula theme",
-    "Dracula Official"
-  ],
   "contributes": {
     "themes": [
       {
-        "label": "Dionis Theme",
+        "label": "Pinot Noir – the essence of me",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dionis-theme.json"
+        "path": "./themes/pinotNoir.json"
+      },
+      {
+        "label": "Pinot Gris – a whisper of elegance",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pinotGris.json"
+      },
+      {
+        "label": "Nebbiolo – a royal sip",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nebbiolo.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "documentation": "https://github.com/DionisUliu/dionis-theme/README.md",
+  "keywords": [
+    "themes",
+    "theme",
+    "vscode theme",
+    "dark theme",
+    "light theme",
+    "developer theme",
+    "programming theme",
+    "coding theme",
+    "pinot noir theme",
+    "pinot gris theme",
+    "dionis theme",
+    "dionis",
+    "dark mode",
+    "custom theme",
+    "color scheme",
+    "modern theme",
+    "minimal theme",
+    "grape theme",
+    "elegant theme",
+    "VSCode",
+    "vscode themes",
+    "dark vscode theme",
+    "vscode dark theme",
+    "productivity theme",
+    "relaxed theme",
+    "coding color scheme",
+    "developer productivity theme",
+    "stylish theme"
+  ]
 }

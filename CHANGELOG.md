@@ -1,21 +1,21 @@
 # Change Log
 
 ## [0.0.1]
-
-- 🔖 Dionis Theme - first release!
+- 🚀 Dionis Theme - First release!
 
 ## [0.0.2]
-
-- 🎨 New bottom tab color!
+- 🎨 Updated bottom tab color in **Pinot Noir – the essence of me**.
 
 ## [0.0.3]
-
-- 🐛 Bugfix!
+- 🐛 Fixed minor bugs.
 
 ## [0.0.4]
-
-- 🎨 New app icon!
+- 🎨 Added a new extension icon.
 
 ## [0.0.5]
+- 🎨 Improved color palette in **Pinot Noir – the essence of me**.
 
-- 🎨 Improved colors!
+## [0.1.0]
+- 🔄 Renamed current theme to **Pinot Noir – the essence of me**.
+- 🍇 Introduced a new theme: **Pinot Gris – a whisper of elegance**.
+- 🍇 Introduced a new theme: **Nebbiolo – a royal sip**.
