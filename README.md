@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://raw.githubusercontent.com/DionisUliu/dionis-theme/main/images/icon.png" alt="Dionis Theme logo"> <br><strong>Dionis Theme</strong></p>
+# <p align="center"> <img width="100" src="https://github.com/DionisUliu/dionis-theme/blob/master/images/icon.png?raw=true" alt="Dionis Theme logo"> <br><strong>Dionis Theme</strong></p>
 
 > Inspired by the character of the world's finest grapes🍇, this theme collection is crafted for developers who seek productivity with a touch of refinement. Each theme embodies the essence of its namesake, bringing a unique coding experience. 🍷✨
 
@@ -9,13 +9,13 @@
 <!--# <p align="center">![Image](https://i.postimg.cc/cHXjQ8Qk/6.png) </p>-->
 
 ### 🍇 **Pinot Noir – the essence of me**
-![Dionis Theme | Pinot Noir – the essence of me](https://raw.githubusercontent.com/DionisUliu/dionis-theme/main/images/pinot-noir.png)
+![Dionis Theme | Pinot Noir – the essence of me](https://github.com/DionisUliu/dionis-theme/blob/master/images/pinot-noir.png?raw=true)
 
 ### 🍇 **Pinot Gris – a whisper of elegance**
-![Dionis Theme | Pinot Gris – a whisper of elegance](https://raw.githubusercontent.com/DionisUliu/dionis-theme/main/images/pinot-gris.png)
+![Dionis Theme | Pinot Gris – a whisper of elegance](https://github.com/DionisUliu/dionis-theme/blob/master/images/pinot-gris.png?raw=true)
 
 ### 🍇 **Nebbiolo – a royal sip**
-![Dionis Theme | Nebbiolo – a royal sip](https://raw.githubusercontent.com/DionisUliu/dionis-theme/main/images/nebbiolo.png)
+![Dionis Theme | Nebbiolo – a royal sip](https://github.com/DionisUliu/dionis-theme/blob/master/images/nebbiolo.png?raw=true)
 
 ## 🚀 Installation
 

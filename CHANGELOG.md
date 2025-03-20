@@ -19,3 +19,7 @@
 - 🔄 Renamed current theme to **Pinot Noir – the essence of me**.
 - 🍇 Introduced a new theme: **Pinot Gris – a whisper of elegance**.
 - 🍇 Introduced a new theme: **Nebbiolo – a royal sip**.
+
+## [0.1.1]
+- 🎨 Improved color palette in **Nebbiolo – a royal sip**.
+
